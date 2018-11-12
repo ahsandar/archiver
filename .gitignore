@@ -1,0 +1,8 @@
+.metals
+.idea
+target
+project/target
+.ensime
+log
+ensime*
+pc*
